@@ -1,5 +1,4 @@
-# Counter App — README
-
+# Counter Project
 ## 📌 Project Overview
 This is a simple *Counter App* built to understand the basics of the *DOM (Document Object Model)* in JavaScript.  
 The goal of this project was to learn how to update values, handle events, and dynamically change content on a webpage.
